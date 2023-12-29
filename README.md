@@ -1,0 +1,1 @@
+Tenes que loguearte manualmente al driver, luego ir a mis viajes -> todos los viajes -> presionar enter. cuando termine toda la pagina te pregunta si queres continuar, ahi vas a la sig pagina y seguis.
